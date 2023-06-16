@@ -1,2 +1,0 @@
-# APOCK
-#amor
